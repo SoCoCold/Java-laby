@@ -1,0 +1,12 @@
+Best Score (Easy): 10
+Attempts (Easy): 0
+Mixed Player Score (Easy): 0
+Mixed Bot Score (Easy): 0
+Best Score (Hard): 0
+Attempts (Hard): 14
+Mixed Player Score (Hard): 0
+Mixed Bot Score (Hard): 0
+Best Score (Normal): 0
+Attempts (Normal): 0
+Mixed Player Score (Normal): 1
+Mixed Bot Score (Normal): 0
