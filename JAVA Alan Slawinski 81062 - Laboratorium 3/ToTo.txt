@@ -1,0 +1,12 @@
+Best Score (Easy): 0
+Mixed Player Score (Easy): 1
+Multiplayer (Easy): 0
+Best Score (Hard): 0
+Mixed Player Score (Hard): 0
+Multiplayer (Hard): 0
+Best Score (Custom): 0
+Mixed Player Score (Custom): 0
+Multiplayer (Custom): 4
+Best Score (Normal): 0
+Mixed Player Score (Normal): 0
+Multiplayer (Normal): 0
